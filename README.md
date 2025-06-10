@@ -10,7 +10,7 @@
 ---
 
 
-# KITTI 
+# KITTI Demo
 - Keyframe Interval = 3.0m, Positive Threshold = 10.0m
 
 | KITTI00 | KITTI05 |
