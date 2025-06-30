@@ -19,15 +19,12 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="fig/recall.gif" alt="Demo GIF" width="100%">
+      <img src="fig/recall.gif" alt="Recall Demo" width="100%">
     </td>
     <td width="50%">
-      <a href="https://youtu.be/mXngfLhrf4c?si=sFGUS2ulIoRLs70f" target="_blank">
-        <img src="https://img.youtube.com/vi/mXngfLhrf4c/0.jpg" alt="YouTube Demo" width="100%">
-      </a>
+      <img src="fig/kitti00_demo.gif" alt="KITTI 00 Demo" width="100%">
     </td>
   </tr>
 </table>
-
 # Acknowledgments
 
