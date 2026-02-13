@@ -5,16 +5,3 @@
 </p>
 
 ---
-
-
-# Dependencies
----
-
-
-# Commands
-
-
-
-
-# Acknowledgments
-
