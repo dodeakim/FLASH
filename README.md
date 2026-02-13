@@ -4,8 +4,6 @@
   <img src="fig/kitti00.png" width="49%">
 </p>
 
-- TBA
-
 ---
 
 
